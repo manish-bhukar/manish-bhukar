@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Development**
 
-- 🤝 I’m looking for help with **Web development**
 
 - 💬 Ask me about **Development**
 
